@@ -70,32 +70,6 @@ Built with a responsive and mobile-first design, DotMart offers powerful tools f
 
 ---
 
-## Screenshots
-
-Add screenshots inside the `/screenshots` directory.
-
-### Homepage
-
-![Homepage](screenshots/homepage.png)
-
-### Product Listing
-
-![Products](screenshots/products.png)
-
-### Product Details
-
-![Details](screenshots/product-details.png)
-
-### Shopping Cart
-
-![Cart](screenshots/cart.png)
-
-### Admin Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## Pricing
 
 ### Starter Edition
