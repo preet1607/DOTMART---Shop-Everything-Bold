@@ -11,7 +11,6 @@ Built with a responsive and mobile-first design, DotMart offers powerful tools f
 
 > **Note:** This repository is a product showcase. Source code is proprietary and not publicly available.
 
----
 
 ## Key Features
 
@@ -42,7 +41,7 @@ Built with a responsive and mobile-first design, DotMart offers powerful tools f
 * Multi-category support
 * Business performance dashboard
 
----
+
 
 ## Industries Supported
 
@@ -56,7 +55,7 @@ Built with a responsive and mobile-first design, DotMart offers powerful tools f
 * Multi-Vendor Marketplaces
 * Wholesale Businesses
 
----
+
 
 ## Business Benefits
 
@@ -68,7 +67,6 @@ Built with a responsive and mobile-first design, DotMart offers powerful tools f
 * Reduced operational overhead
 * Easy product and inventory management
 
----
 
 ## Pricing
 
@@ -104,7 +102,7 @@ Built with a responsive and mobile-first design, DotMart offers powerful tools f
 * Advanced Reporting
 * Enterprise Support
 
----
+
 
 ## Custom Development
 
@@ -123,7 +121,7 @@ Custom modules and integrations available:
 
 Pricing available upon request.
 
----
+
 
 ## Demo Request
 
@@ -138,7 +136,7 @@ Please include:
 * Required Features
 * Expected Number of Users
 
----
+
 
 ## Licensing
 
@@ -153,9 +151,8 @@ Commercial licenses, deployments, customizations, and source-code licensing opti
 For business inquiries:
 
 📧 [preetparekh1672@gmail.com](mailto:preetparekh1672@gmail.com)
-📧 [preetparekh1672@gmail.com](mailto:preetparekh1672@gmail.com)
 
----
+
 
 ## Status
 
